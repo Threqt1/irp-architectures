@@ -3,7 +3,9 @@ Architectures for my Independent Research Project comparing the efficiencies of 
 
 ## Golang Libraries
 [Mux](https://github.com/gorilla/mux)
+
 [CORS](https://github.com/rs/cors)
+
 [Snowflake](github.com/bwmarrin/snowflake)
 
 ## Rust Libraries
